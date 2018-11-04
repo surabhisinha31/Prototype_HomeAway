@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "redux-frontend",
+=======
+  "name": "redux_frontend",
+>>>>>>> 3872113ed1d754cdb6da04a2a27845cd6387b063
   "version": "0.1.0",
   "private": true,
   "dependencies": {
