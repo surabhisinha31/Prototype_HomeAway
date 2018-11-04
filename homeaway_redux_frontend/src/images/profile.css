@@ -1,0 +1,245 @@
+.logo-profile {
+font-family: sans-serif;
+  width:400px;
+  color: #418cf4;
+  margin-left: -130px;
+  margin-top: 10px;
+}
+.btn-class.save{
+  width: 150px;
+  margin-top: 80px;
+  margin-left: 100px;
+}
+.btn-class.upload{
+  width: 150px;
+  margin-top: 80px;
+  margin-left: 0px;
+}
+.logo-home{
+  width:40px;
+  height:40px;
+  font-weight: 300;
+  margin-left: -300px;
+  margin-top: 10px;
+}
+.drop-nav {
+	width: 120px;
+	margin-left: 100px;
+	font-size: 16px;
+  margin-top: 5px;
+
+
+}
+.header-btn{
+  font-size: 16px;
+  border: 1px solid #4298f4;
+  border-radius: 25px;
+  background-color: #4298f4;
+}
+
+.drop-nav.username{
+  margin-right: 10px;
+  width: 200px;
+  color: #41b8f4;
+}
+.drop-nav:active {
+    background-color: white;
+}
+.tab-pane.profile{
+  margin-left: 200px;
+  margin-top: -400px;
+
+
+}
+.profile-form{
+  height:1300px;
+  width:900px;
+  margin-bottom: 10px;
+  margin-top: 350px;
+  margin-right: 300px;
+  margin-left: -120px;
+  border: 1px solid #D3D3D3;
+  border-radius: 5px;
+  background-color: #F5F5F5;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.profile-header{
+  margin-top: -50px;
+  margin-left: 200px;
+  position: absolute;
+  font-family: "Arial Black", Gadget, sans-serif
+}
+
+.name-class{
+  margin-left: 50px;
+  width:305px;
+  height: 40px;
+  margin-top: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  border: 1px solid #D3D3D3;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0);
+  text-align: left;
+  padding:10px;
+}
+.about-class{
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 0px;
+  width:618px;
+  font-weight: 500;
+  font-size: 16px;
+  padding:10px;
+  border: 1px solid #D3D3D3;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0);
+}
+.gender-type{
+  margin-left: 50px;
+  width:305px;
+  height:40px;
+  border: 1px  #D3D3D3;
+  background-color: white;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0);
+}
+.image-upload{
+  margin-left: 50px;
+  width:305px;
+  height:40px;
+  border: 1px solid white;
+}
+
+.image-class{
+  margin-left: 460px;
+  display: inline;
+  margin-top: 10px;
+  width:205px;
+  height:130px;
+  position: absolute;
+  border: 1px  #D3D3D3;
+  background-color: white;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0);
+}
+.profile-main{
+  margin-top: 0px;
+  margin-left: 200px;
+}
+.nav-bar{
+  margin-top: -340px;
+  margin-left: 400px;
+  color: black;
+}
+.nav-item{
+  color: black;
+  margin-left:200px;
+
+}
+.header-btn{
+  font-size: 16px;
+  width: 190px;
+  height: 40px;
+  border: 1px solid #4298f4;
+  border-radius: 30px;
+  background-color: #4298f4;
+  color:white;
+}
+.homelogo-profile {
+  font-family: sans-serif;
+  color: #418cf4;
+  font-size: 40px;
+  margin-left: -270px;
+  margin-top: -200px;
+  position: absolute;
+}
+.homelogo-style{
+  width:40px;
+  height:40px;
+  font-weight: 300;
+  margin-left:-140px;
+  margin-top: -25px;
+  margin-right: 140px;
+  position: absolute;
+}
+.btn-class.propertypost{
+  margin-top: -30px;
+  margin-left: -330px;
+  margin-right: 10px;
+  font-weight: 500;
+  position: absolute;
+}
+.main-dropdown{
+  height: 50px;
+  border: 1px  #CFBCBC;
+  border-radius: 25px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0);
+  margin-left: -280px;
+  margin-right: 10px;
+  position: absolute;
+  margin-top: -30px;
+  font-size: 18px;
+
+}
+.main-dropdown1{
+font-weight: 500;
+  border: 1px  #CFBCBC;
+  border-radius: 25px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0);
+  margin-left: -400px;
+  margin-right: 0px;
+  height:50px;
+  margin-top: -30px;
+  position: absolute;
+  font-size: 18px;
+
+}
+.mail{
+
+  margin-left: -100px;
+  margin-right: 80px;
+  font-size: 18px;
+  color:white;
+  position: absolute;
+}
+.drop-data{
+  border: 1px  #CFBCBC;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0);
+  color: black;
+  width: 150%;
+  height: 40px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+
+
+}
+.drop-data1{
+  font-size: 16px;
+  color: black;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+.traveler-header{
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.userprofile-header{
+  margin-top: 220px;
+  margin-left: 100px;
+}
+.help-change{
+  color: black;
+  width: 150px;
+  background-color: Black;
+}
+.label-class{
+  margin-left: 50px;
+  margin-top: 2px;
+  width:305px;
+  font-weight: 200;
+  font-size: 16px;
+  text-align: left;
+  font-family: "Arial Black", cursive, sans-serif
+}
