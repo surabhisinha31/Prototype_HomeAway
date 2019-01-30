@@ -2,7 +2,7 @@
 HomeAway
 
 
-CMPE273 Lab2: submitted by: surabhi sinha(surabhi.sinha@sjsu.edu)
+submitted by: surabhi sinha(surabhi.sinha@sjsu.edu)
 
 Project Description
 Through this project, I have designed a web application with RESTful API that simulates HomeAway website using react and redux for Frontend and node js for Backend and Kafka for message queuing.
